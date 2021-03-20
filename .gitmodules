@@ -1,0 +1,9 @@
+[submodule "bigspring-hugo-startup-theme"]
+	path = bigspring-hugo-startup-theme
+	url = https://github.com/themefisher/bigspring-hugo-startup-theme.git
+[submodule "themes/bigspring-hugo-startup-theme"]
+	path = themes/bigspring-hugo-startup-theme
+	url = https://github.com/themefisher/bigspring-hugo-startup-theme.git
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
