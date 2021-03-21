@@ -14,7 +14,7 @@ script:
 - make deploy
 branches:
   only:
-  - master
+  - main
 notifications:
     email:
         on_failure: always
